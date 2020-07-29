@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Jaynil1611.github.io/static/css/main.46b3910f.chunk.css",
+    "main.js": "/Jaynil1611.github.io/static/js/main.67d60085.chunk.js",
+    "main.js.map": "/Jaynil1611.github.io/static/js/main.67d60085.chunk.js.map",
+    "runtime-main.js": "/Jaynil1611.github.io/static/js/runtime-main.f7e965d4.js",
+    "runtime-main.js.map": "/Jaynil1611.github.io/static/js/runtime-main.f7e965d4.js.map",
+    "static/css/2.812d3d72.chunk.css": "/Jaynil1611.github.io/static/css/2.812d3d72.chunk.css",
+    "static/js/2.df64fd04.chunk.js": "/Jaynil1611.github.io/static/js/2.df64fd04.chunk.js",
+    "static/js/2.df64fd04.chunk.js.map": "/Jaynil1611.github.io/static/js/2.df64fd04.chunk.js.map",
+    "index.html": "/Jaynil1611.github.io/index.html",
+    "precache-manifest.a904be2f39ea2a924031b78d1c013d56.js": "/Jaynil1611.github.io/precache-manifest.a904be2f39ea2a924031b78d1c013d56.js",
+    "service-worker.js": "/Jaynil1611.github.io/service-worker.js",
+    "static/css/2.812d3d72.chunk.css.map": "/Jaynil1611.github.io/static/css/2.812d3d72.chunk.css.map",
+    "static/css/main.46b3910f.chunk.css.map": "/Jaynil1611.github.io/static/css/main.46b3910f.chunk.css.map",
+    "static/js/2.df64fd04.chunk.js.LICENSE.txt": "/Jaynil1611.github.io/static/js/2.df64fd04.chunk.js.LICENSE.txt",
+    "static/media/Apps.png": "/Jaynil1611.github.io/static/media/Apps.719ddefa.png",
+    "static/media/Auction.png": "/Jaynil1611.github.io/static/media/Auction.aa83b5d3.png",
+    "static/media/Bank.png": "/Jaynil1611.github.io/static/media/Bank.a4856369.png",
+    "static/media/Blog.png": "/Jaynil1611.github.io/static/media/Blog.3572e7da.png",
+    "static/media/Diet.png": "/Jaynil1611.github.io/static/media/Diet.1b8b9e56.png",
+    "static/media/Maze.jpg": "/Jaynil1611.github.io/static/media/Maze.8b1371ad.jpg",
+    "static/media/Portfolio.png": "/Jaynil1611.github.io/static/media/Portfolio.96ae5986.png",
+    "static/media/TicTacToe.png": "/Jaynil1611.github.io/static/media/TicTacToe.bd0d425e.png",
+    "static/media/Tutorials.png": "/Jaynil1611.github.io/static/media/Tutorials.2319be76.png",
+    "static/media/font-awesome.css": "/Jaynil1611.github.io/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/Jaynil1611.github.io/static/media/ionicons.c037dbbc.svg",
+    "static/media/male2.png": "/Jaynil1611.github.io/static/media/male2.050cfc32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e965d4.js",
+    "static/css/2.812d3d72.chunk.css",
+    "static/js/2.df64fd04.chunk.js",
+    "static/css/main.46b3910f.chunk.css",
+    "static/js/main.67d60085.chunk.js"
+  ]
+}
