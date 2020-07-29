@@ -1,17 +1,23 @@
-# Ignore Mac system files
-.DS_store
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Ignore node_modules folder
-node_modules
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-#Ignore build folder
-build/
+# testing
+/coverage
 
-# Ignore all text files
-*.txt
+# production
+/build
 
-# Ignore files related to API keys
-.env
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# Ignore SASS config files
-.sass-cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
